@@ -1,9 +1,0 @@
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\更换bing壁纸.exe.config
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\更换bing壁纸.exe.manifest
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\更换bing壁纸.application
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\更换bing壁纸.exe
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\bin\Debug\更换bing壁纸.pdb
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\更换bing壁纸.exe.manifest
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\更换bing壁纸.application
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\更换bing壁纸.exe
-C:\Users\FTKJ\documents\visual studio 2010\Projects\ConsoleApplication2\ConsoleApplication2\obj\x86\Debug\更换bing壁纸.pdb
