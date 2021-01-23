@@ -20,7 +20,7 @@ namespace ConsoleApplication2
         {
             System.Net.ServicePointManager.SecurityProtocol = (SecurityProtocolType)(0xc0 | 0x300 | 0xc00);
 
-            string picUrl = "https://huuu.xyz/php/bing.php";
+            string picUrl = "https://buguoheng.com/php/bing.php";
             string savePath = Directory.GetCurrentDirectory() + "\\" + DateTime.Now.ToString("yyyyMMdd") + ".jpg";
             string value = String.Empty;
             WebResponse response = null;
