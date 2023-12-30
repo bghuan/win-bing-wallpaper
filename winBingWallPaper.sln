@@ -1,0 +1,25 @@
+﻿
+Microsoft Visual Studio Solution File, Format Version 12.00
+# Visual Studio Version 17
+VisualStudioVersion = 17.5.002.0
+MinimumVisualStudioVersion = 10.0.40219.1
+Project("{9A19103F-16F7-4668-BE54-9A1E7A4F7556}") = "winBingWallPaper", "winBingWallPaper.csproj", "{BB80B85F-F445-4215-B238-D26EA72927BD}"
+EndProject
+Global
+	GlobalSection(SolutionConfigurationPlatforms) = preSolution
+		Debug|Any CPU = Debug|Any CPU
+		Release|Any CPU = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(ProjectConfigurationPlatforms) = postSolution
+		{BB80B85F-F445-4215-B238-D26EA72927BD}.Debug|Any CPU.ActiveCfg = Debug|Any CPU
+		{BB80B85F-F445-4215-B238-D26EA72927BD}.Debug|Any CPU.Build.0 = Debug|Any CPU
+		{BB80B85F-F445-4215-B238-D26EA72927BD}.Release|Any CPU.ActiveCfg = Release|Any CPU
+		{BB80B85F-F445-4215-B238-D26EA72927BD}.Release|Any CPU.Build.0 = Release|Any CPU
+	EndGlobalSection
+	GlobalSection(SolutionProperties) = preSolution
+		HideSolutionNode = FALSE
+	EndGlobalSection
+	GlobalSection(ExtensibilityGlobals) = postSolution
+		SolutionGuid = {A44A1F21-B522-4121-AD5C-4DBCD41412C2}
+	EndGlobalSection
+EndGlobal
